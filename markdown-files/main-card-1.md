@@ -1,5 +1,5 @@
-### Card 1
-Here is some information about the first portfolio item
+### Navigation Bar Collection
+Throughout all of my classes, I have utilized several different navigation bars, so here is a collection of some of those nav bars, along with information about what inspired the look, how I feel looking back on it, and what I could've done differently at the time.
 
 [Navigation Bar Collection](./../portfolio-items/nav-collection/index.html)
 

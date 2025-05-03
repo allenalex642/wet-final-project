@@ -1,5 +1,5 @@
-### Card 3
-Here is some information about the third portfolio item
+### Contact Form
+This leads to a typical contact form, where the user will need to input data into the form to be able to properly submit the form. There is CSS & JavaScript added to style the form when data hasn't been properly submitted... feel free to test it out yourself!
 
 [Contact Form](./../portfolio-items/contact/index.html)
 
