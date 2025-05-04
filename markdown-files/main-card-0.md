@@ -1,2 +1,2 @@
 ### Portfolio Overview
-Here is the overview for the portfolio
+The portfolio content on this site is a compilation of items from previous projects and classes, as well as the implementation of techniques from various classes. Just this page uses JavaScript to load these cards and their content, with the content in Markdown files. Not to mention, this page also uses SASS for the CSS, as it allows me to write CSS faster and easier. Not to mention, this entire final project is part of a repository, so I am using Git- Bash to update the files as needed.
