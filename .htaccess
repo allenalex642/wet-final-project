@@ -1,0 +1,4 @@
+Options -indexes
+
+ErrorDocument 404 /wet/final-project/wet-final-project/_errors/404.html
+ErrorDocument 403 /wet/final-project/wet-final-project/_errors/403.html
