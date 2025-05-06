@@ -70,3 +70,6 @@ This navigation bar was used to go between different website reviews in my wfed2
 <p class="separator">.</p>
 
 This was one of the navigation bars used in my JavaScript class, more specifically, each assignment would have multiple pages of their own with unique demos, so each link would lead to another demo. I'm not a big fan of the un-even structure of the navigation bar, as well as the instantaneous transition upon hovering over one of the links. Not to mention, when in mobile view, the text is only left aligned while the gray bar takes up most of the screen, so it doesn't personally look the best.
+
+### Final Thoughts
+The three navigation bars where only a few of them used in my time at NWTC while designing sites, and I think designing unique ones allow me to get a feel for what feels right while using a navigation bar, as well as what I don't care for. For example, I like the look and feel of the first nav-bar while on mobile view, but I also like the simplicity of the second while viewing on desktop. Both of those were somewhat combined into the current navigation bar for the portfolio itself, where it looks simplistic, but feels smooth and nice to use.
