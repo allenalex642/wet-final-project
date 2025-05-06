@@ -24,7 +24,8 @@ Throughout several of my classes, I have utilized a variety of navigation bars t
         </li>
     </ul>
 </nav>
-Sample Text Here
+
+Here is the navigation bar presented in my final project for Web Front End Design 1, where I made a computer parts store site. Some of the CSS used to style this navigation had been slightly altered to match the page width as well as fix some of the notable issues present. Some issues still remain though with how the hover states work, such as hovering on the edge of the link causes it to go in and out of a hover state rapidly. I do somewhat like the slight movement caused when hovering over one of the links, but I'm mostly fond of the mobile view, as it feels really clean and doesn't have any notable errors with hover states.
 
 ### Web Front End Design 2 | Website Reviews
 <nav class="wfed2-navbar-nav">
@@ -60,4 +61,5 @@ This navigation bar was used to go between different website reviews in my wfed2
     <a class="js-navbar-a" href="index.html">For Loop</a>
 </nav>
 <p class="separator">.</p>
+
 This was one of the navigation bars used in my JavaScript class, more specifically, each assignment would have multiple pages of their own with unique demos, so each link would lead to another demo. I'm not a big fan of the un-even structure of the navigation bar, as well as the instantaneous transition upon hovering over one of the links. Not to mention, when in mobile view, the text is only left aligned while the gray bar takes up most of the screen, so it doesn't personally look the best.
