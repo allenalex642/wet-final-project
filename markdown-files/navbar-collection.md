@@ -2,6 +2,9 @@
 Throughout several of my classes, I have utilized a variety of navigation bars to offer unique ways of navigating to other pages on those sites. Below are some of the navigation bars in their full style on their respective pages, as well as a review of the navigation bar as a whole.
 
 ### Web Front End Design 1 | Final Project
+
+<p class="separator">.</p>
+
 <nav class="wfed1-navbar-nav">
     <ul class="wfed1-navbar-ul">
         <li class="wfed1-navbar-li">
@@ -27,6 +30,8 @@ Throughout several of my classes, I have utilized a variety of navigation bars t
 
 Here is the navigation bar presented in my final project for Web Front End Design 1, where I made a computer parts store site. Some of the CSS used to style this navigation had been slightly altered to match the page width as well as fix some of the notable issues present. Some issues still remain though with how the hover states work, such as hovering on the edge of the link causes it to go in and out of a hover state rapidly. I do somewhat like the slight movement caused when hovering over one of the links, but I'm mostly fond of the mobile view, as it feels really clean and doesn't have any notable errors with hover states.
 
+<p class="separator">.</p>
+
 ### Web Front End Design 2 | Website Reviews
 <nav class="wfed2-navbar-nav">
     <ul class="wfed2-navbar-ul">
@@ -46,6 +51,8 @@ Here is the navigation bar presented in my final project for Web Front End Desig
 </nav>
 
 This navigation bar was used to go between different website reviews in my wfed2 class. Overall, the navigation is pretty simplistic, with a simple white bar appearing above the site name on hover. In mobile view, there is a small bar between each navigation item, which does help separate each link, with the top of each row becoming a thick white line upon hovering over it.
+
+<p class="separator">.</p>
 
 ### JavaScript | In-Assignment Navigation
 <p class="separator">.</p>
