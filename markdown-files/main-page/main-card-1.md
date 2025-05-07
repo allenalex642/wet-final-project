@@ -4,3 +4,8 @@ Throughout all of my classes, I have utilized several different navigation bars,
 [Navigation Bar Collection](./../../../../wet/final-project/wet-final-project/portfolio-items/nav-collection/index.html)
 
 Here are some of the techniques, coding languages, and other methods used to achieve the content visible on this page.
+
+<ol class="condensed-list">
+    <li><p>Markdown Content Loaded w/ JavaScript</p></li>
+    <li><p>SASS mixins to for Each Navigation Bar</p></li>
+</ol>
