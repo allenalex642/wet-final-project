@@ -6,8 +6,9 @@ As this is my last official class in my web development program, I figured it wo
 <ol class="grid grid-template-two-columns">
     <li class="card">
         <h3>Q2 & Q3 | 2025</h3>
+        
         Content Here
-    </li>
+</li>
     <li class="card">
         <h3>Q4 2025 -- Q2 2026</h3>
         Content Here
