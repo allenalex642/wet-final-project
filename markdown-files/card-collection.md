@@ -45,7 +45,7 @@ Above are two cards that were present in the final project for my Web Front End 
 <ul class="wfed2-card-ul">
     <li class="wfed2-card-li">
         <figure class="wfed2-card-figure">
-            <img class="wfed2-card-img">
+            <img class="wfed2-card-img" src="/wet/final-project/wet-final-project/portfolio-items/card-collection/images/envy-card.webp">
         </figure>
         <section class="wfed2-card-section">
             <h2 class="wfed2-card-h2">Envy Labs</h2>
@@ -55,7 +55,7 @@ Above are two cards that were present in the final project for my Web Front End 
     </li>
         <li class="wfed2-card-li">
             <figure class="wfed2-card-figure">
-                <img class="wfed2-card-img">
+                <img class="wfed2-card-img" src="/wet/final-project/wet-final-project/portfolio-items/card-collection/images/veerle-card.webp">
             </figure>
             <section class="wfed2-card-section">
                 <h2 class="wfed2-card-h2">Veerle</h2>
@@ -65,7 +65,7 @@ Above are two cards that were present in the final project for my Web Front End 
     </li>
         <li class="wfed2-card-li">
             <figure class="wfed2-card-figure">
-                <img class="wfed2-card-img">
+                <img class="wfed2-card-img" src="/wet/final-project/wet-final-project/portfolio-items/card-collection/images/github-card.webp">
             </figure>
             <section class="wfed2-card-section">
                 <h2 class="wfed2-card-h2">Github</h2>
