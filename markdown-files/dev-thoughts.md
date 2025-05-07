@@ -44,4 +44,4 @@ This section is dedicated to what my plans are for the future, including my prof
 ## Final Thoughts
 Overall, that's really my thoughts summed up. I'm not planning too much into the future to focus on the present, but it gives me something to look forward to for sure. I know this page has been a lot of reading, but I'm treating it as sort of a diary entry, something that it a few years, I can look back on and see how far I've come. By the time this is live on the internet, on my site specifically (aallenprojects.me), this will have been the last web project I will have worked on for my classes, and I'm going to miss it.
 
-Take Care, Alex A.
+Take care, and thank you for reading, Alex A.
