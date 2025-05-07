@@ -6,7 +6,7 @@ Content
 <ol class="wfed1-card-ol">
     <li class="wfed1-card-li">
         <figure class="wfed1-card-figure">
-            <img class="wfed1-card-img">
+            <img class="wfed1-card-img" src="../portfolio-items/card-collection/images/motherboard-card-header.webp">
         </figure>
         <section class="wfed1-card-section">
             <h2 class="wfed1-card-h2">Which Motherboard is Right for you?</h2>
