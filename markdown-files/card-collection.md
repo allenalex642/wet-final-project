@@ -42,6 +42,39 @@ Above are two cards that were present in the final project for my Web Front End 
 
 ### Web Front End Design 2 | Website Review Cards
 
+<ul class="wfed2-card-ul">
+    <li class="wfed2-card-li">
+        <figure class="wfed2-card-figure">
+            <img class="wfed2-card-img">
+        </figure>
+        <section class="wfed2-card-section">
+            <h2 class="wfed2-card-h2">Envy Labs</h2>
+            <p class="wfed2-card-p">A website review of Envy Labs regarding the code, UI & UX.</p>
+            <a class="wfed2-card-a">Read More About Envy Labs</a>
+        </section>
+    </li>
+        <li class="wfed2-card-li">
+            <figure class="wfed2-card-figure">
+                <img class="wfed2-card-img">
+            </figure>
+            <section class="wfed2-card-section">
+                <h2 class="wfed2-card-h2">Veerle</h2>
+                <p class="wfed2-card-p">A website review of Veerle regarding the code, UI & UX.</p>
+                <a class="wfed2-card-a">Read More About Veerle</a>
+            </section>
+    </li>
+        <li class="wfed2-card-li">
+            <figure class="wfed2-card-figure">
+                <img class="wfed2-card-img">
+            </figure>
+            <section class="wfed2-card-section">
+                <h2 class="wfed2-card-h2">Github</h2>
+                <p class="wfed2-card-p">A website review of Github regarding the code, UI & UX.</p>
+                <a class="wfed2-card-a">Read More About Github</a>
+            </section>
+    </li>
+</ul>
+
 Descriptor Content
 
 ### Web Content Management Design | Home Page Cards
