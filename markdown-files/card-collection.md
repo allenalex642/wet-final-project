@@ -83,10 +83,10 @@ The three cards above are from my website review home page, where each card take
     <li class="wcmd-card-li">
         <a href="index.html" class="wcmd-card-a">
             <figure class="wcmd-card-figure">
-                <img class="wcmd-card-img">
+                <img class="wcmd-card-img" src="/wet/final-project/wet-final-project/portfolio-items/card-collection/images/directus-847x270.webp">
             </figure>
             <section class="wcmd-card-section">
-                <h2 class="wcmd-card-h2">Card Title</h2>
+                <h2 class="wcmd-card-h2">Directus CMS</h2>
                 <div class="wcmd-card-meta">
                     <time class="wcmd-card-time" datetime="2025-01-01">January 1st, 2025</time>
                     <span>By: Alex</span>
@@ -102,10 +102,10 @@ The three cards above are from my website review home page, where each card take
     <li class="wcmd-card-li">
         <a href="index.html" class="wcmd-card-a">
             <figure class="wcmd-card-figure">
-                <img class="wcmd-card-img">
+                <img class="wcmd-card-img" src="/wet/final-project/wet-final-project/portfolio-items/card-collection/images/ghost-847x270.webp">
             </figure>
             <section class="wcmd-card-section">
-                <h2 class="wcmd-card-h2"></h2>
+                <h2 class="wcmd-card-h2">Ghost CMS</h2>
                 <div class="wcmd-card-meta">
                     <time class="wcmd-card-time" datetime="2025-01-01">January 1st, 2025</time>
                     <span>By: Alex</span>
@@ -119,7 +119,8 @@ The three cards above are from my website review home page, where each card take
         </a>
     </li>
 </ol>
-Descriptor Content
+
+The two cards displayed above are from my Web Content Management Design class, a class that was focused on the technical aspects of WordPress. These cards do look the cleanest, however, given that they were created using WordPress classes and such, it was difficult to recreate them here, and even then, they are not like the original cards displayed on the page. However, I do like the display of the metadata on these cards the most compared to the rest, as well as the layout of the card as a whole. Something I'm not the biggest fan of in particular, is that the whole card is a link, so the animation for the image displays when hovering over any part, rather than only the image.
 
 ### Final Thoughts
-Content Here
+While the content of the various cards above is relatively the same, they can all have unique styles that distinguish them from each other. In my personal opinion, I like the look of the WCMD cards, but with the subtle animation for the image found on the cards for WFED-1, where the image slightly zooms in, and that's it. I also like the HTML structure of that same card, where the 'Continue Reading' link is the only place that will take me to that new link, rather than the entire card acting as a link, which is not a personal favorite.
