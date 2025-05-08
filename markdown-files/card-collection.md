@@ -81,40 +81,40 @@ The three cards above are from my website review home page, where each card take
 
 <ol class="wcmd-card-ol">
     <li class="wcmd-card-li">
-        <a class="wcmd-card-a">
+        <a href="index.html" class="wcmd-card-a">
             <figure class="wcmd-card-figure">
                 <img class="wcmd-card-img">
             </figure>
             <section class="wcmd-card-section">
-                <h2 class="wcmd-card-h2"></h2>
+                <h2 class="wcmd-card-h2">Card Title</h2>
                 <div class="wcmd-card-meta">
-                    <time class="wcmd-card-time"></time>
-                    <span></span>
-                    <span></span>
+                    <time class="wcmd-card-time" datetime="2025-01-01">January 1st, 2025</time>
+                    <span>By: Alex</span>
+                    <span>10 Comments</span>
                 </div>
                 <div class="wcmd-card-excerpt">
-                    <p class="wcmd-card-p"></p>
+                    <p class="wcmd-card-p">Description Text</p>
                 </div>
-                <span class="wcmd-card-button-span"></span>
+                <span class="wcmd-card-button-span">Read More...</span>
             </section>
         </a>
     </li>
     <li class="wcmd-card-li">
-        <a class="wcmd-card-a">
+        <a href="index.html" class="wcmd-card-a">
             <figure class="wcmd-card-figure">
                 <img class="wcmd-card-img">
             </figure>
             <section class="wcmd-card-section">
                 <h2 class="wcmd-card-h2"></h2>
                 <div class="wcmd-card-meta">
-                    <time class="wcmd-card-time"></time>
-                    <span></span>
-                    <span></span>
+                    <time class="wcmd-card-time" datetime="2025-01-01">January 1st, 2025</time>
+                    <span>By: Alex</span>
+                    <span>5 Comments</span>
                 </div>
                 <div class="wcmd-card-excerpt">
-                    <p class="wcmd-card-p"></p>
+                    <p class="wcmd-card-p">Description Text</p>
                 </div>
-                <span class="wcmd-card-button-span"></span>
+                <span class="wcmd-card-button-span">Read More...</span>
             </section>
         </a>
     </li>
