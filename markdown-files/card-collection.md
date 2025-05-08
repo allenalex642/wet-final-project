@@ -50,7 +50,7 @@ Above are two cards that were present in the final project for my Web Front End 
         <section class="wfed2-card-section">
             <h2 class="wfed2-card-h2">Envy Labs</h2>
             <p class="wfed2-card-p">A website review of Envy Labs regarding the code, UI & UX.</p>
-            <a class="wfed2-card-a">Read More About Envy Labs</a>
+            <a href="index.html" class="wfed2-card-a">Read More About Envy Labs</a>
         </section>
     </li>
         <li class="wfed2-card-li">
@@ -60,7 +60,7 @@ Above are two cards that were present in the final project for my Web Front End 
             <section class="wfed2-card-section">
                 <h2 class="wfed2-card-h2">Veerle</h2>
                 <p class="wfed2-card-p">A website review of Veerle regarding the code, UI & UX.</p>
-                <a class="wfed2-card-a">Read More About Veerle</a>
+                <a href="index.html" class="wfed2-card-a">Read More About Veerle</a>
             </section>
     </li>
         <li class="wfed2-card-li">
@@ -70,15 +70,55 @@ Above are two cards that were present in the final project for my Web Front End 
             <section class="wfed2-card-section">
                 <h2 class="wfed2-card-h2">Github</h2>
                 <p class="wfed2-card-p">A website review of Github regarding the code, UI & UX.</p>
-                <a class="wfed2-card-a">Read More About Github</a>
+                <a href="index.html" class="wfed2-card-a">Read More About Github</a>
             </section>
     </li>
 </ul>
 
-Descriptor Content
+The three cards above are from my website review home page, where each card takes the user to a different review about a site. These cards feature a similar function as the cards above, where hovering over the image slowly enlarges and covers the whole image. The link also extends the card on the bottom.
 
 ### Web Content Management Design | Home Page Cards
 
+<ol class="wcmd-card-ol">
+    <li class="wcmd-card-li">
+        <a class="wcmd-card-a">
+            <figure class="wcmd-card-figure">
+                <img class="wcmd-card-img">
+            </figure>
+            <section class="wcmd-card-section">
+                <h2 class="wcmd-card-h2"></h2>
+                <div class="wcmd-card-meta">
+                    <time class="wcmd-card-time"></time>
+                    <span></span>
+                    <span></span>
+                </div>
+                <div class="wcmd-card-excerpt">
+                    <p class="wcmd-card-p"></p>
+                </div>
+                <span class="wcmd-card-button-span"></span>
+            </section>
+        </a>
+    </li>
+    <li class="wcmd-card-li">
+        <a class="wcmd-card-a">
+            <figure class="wcmd-card-figure">
+                <img class="wcmd-card-img">
+            </figure>
+            <section class="wcmd-card-section">
+                <h2 class="wcmd-card-h2"></h2>
+                <div class="wcmd-card-meta">
+                    <time class="wcmd-card-time"></time>
+                    <span></span>
+                    <span></span>
+                </div>
+                <div class="wcmd-card-excerpt">
+                    <p class="wcmd-card-p"></p>
+                </div>
+                <span class="wcmd-card-button-span"></span>
+            </section>
+        </a>
+    </li>
+</ol>
 Descriptor Content
 
 ### Final Thoughts
