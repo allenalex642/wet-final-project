@@ -60,17 +60,12 @@ $(function () {
             contact_type: {
                 required: true,
             },
-            'colors[]': {
-                required: true,
-                minlength: 2,
-                maxlength: 2
-            },
-            interest: {
+            issue: {
                 required: true
             },
-            fact: {
+            description: {
                 required: true,
-                minlength: 10
+                minlength: 40
             }
             
         },
@@ -91,19 +86,15 @@ $(function () {
                 required: "Please enter your phone number",
                 minlength: "Enter a phone number in the correct format"
             },
-            phone: {
+            contact_type: {
                 required: "Please select a method of contact"
             },
-            'colors[]': {
-                required: "Please choose 2 colors",
-                minlength: "You must choose 2 colors"
+            issue: {
+                required: "Please choose an issue"
             },
-            interest: {
-                required: "Please choose an interest area"
-            },
-            fact: {
-                required: "Please say something else about yourself",
-                minlength: "You must have at least 10 characters in this field"
+            description: {
+                required: "Please give more information about the issue you encountered",
+                minlength: "You must have at least 40 characters in this field"
             }
         }
 

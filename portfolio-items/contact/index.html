@@ -30,7 +30,7 @@
                 </li>
             </ul>
         </nav>
-        <h2>Details</h2>
+        <h2>Contact Us</h2>
                     <form novalidate="novalidate" id="form" method="post" action="https://www.example.org/register">
                 <ol>
                     <li>
@@ -60,55 +60,27 @@
                         </p>
                     </fieldset>
                     <li>
-                        <fieldset class="absolute span-all">
-                            <legend>Select 2 Colors</legend>
-                            <p>
-                            <input type="checkbox" class="checkbox" id="red" value="red" name="colors[]">
-                            <label for="red">Red</label>
-
-                            <input type="checkbox" class="checkbox" id="blue" value="blue" name="colors[]">
-                            <label for="blue">Blue</label>
-
-                            <input type="checkbox" class="checkbox" id="green" value="green" name="colors[]">
-                            <label for="green">Green</label>
-
-                            <input type="checkbox" class="checkbox" id="yellow" value="yellow" name="colors[]">
-                            <label for="yellow">Yellow</label>
-
-                            <input type="checkbox" class="checkbox" id="orange" value="orange" name="colors[]">
-                            <label for="orange">Orange</label>
-
-                            <input type="checkbox" class="checkbox" id="purple" value="purple" name="colors[]">
-                            <label for="purple">Purple</label>
-                            </p>
-                        </fieldset>
-                    </li>
-                    <li>
-                        <label for="interest">Select An Interest Area</label>
-                        <select id="interest" name="interest" title="Please choose an interest area">
-                            <option value="">Choose an interest area...</option>
-                            <option value="adventure">Adventure</option>
-                            <option value="explore">Exploration</option>
-                            <option value="music">Musicality</option>
-                            <option value="entertain">Entertainment</option>
-                            <option value="product">Productivity</option>
-                            <option value="nature">Nature</option>
+                        <label for="issue">Let Us Know What's Wrong</label>
+                        <select id="issue" name="issue" title="Please Select Your Issue">
+                            <option value="">Select...</option>
+                            <option value="brokenHTML">Broken HTML</option>
+                            <option value="cssOverlap">CSS Overlap</option>
+                            <option value="cssMobile">Mobile CSS Issues</option>
+                            <option value="brokenJS">Unintentional JavaScript Effects</option>
+                            <option value="brokenLink">Broken Link(s)</option>
+                            <option value="other">Other</option>
                         </select>
                     </li>
                     <li>
-                        <label for="fact">What else do you want others to know about you? </label>
-                        <textarea id="fact" name="fact" rows="3" cols="64"></textarea>
+                        <label for="description">Please describe in detail what issue you have encountered, as well as where the issue was discovered.</label>
+                        <textarea id="description" name="description" rows="5" cols="64"></textarea>
                     </li>
                     <li>
                         <input class="submit" type="submit" value="Submit">
                     </li>
                 </ol>
                 <p>*Enter the number in the assumed format, 1-XXX-XXX-XXXX</p>
-
-
             </form>
-        <div id="content" class="span-all">
-        </div>
         <footer>
             <a href="/">© 2025 - Alex Allen</a>
             <a class="css-validation-link" href="javascript:void(location='https://jigsaw.w3.org/css-validator/validator?uri='+escape(location))">CSS</a>
