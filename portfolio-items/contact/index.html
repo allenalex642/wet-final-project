@@ -41,23 +41,22 @@
                         <label for="lastname">Last Name</label>
                         <input type="text" id="lastname" name="lastname">
                     </li>
-                    <li>
-                        <label for="email">Preferred Email Address</label>
-                        <input type="email" id="email" name="email">
-                    </li>
                     <fieldset class="absolute">
                         <legend>Please enter the following information</legend>
                         <li>
-                            <label for="phonenumber">Enter your phone number*</label>
+                            <label for="email">Email Address</label>
+                            <input type="email" id="email" name="email">
+                        </li>
+                        <li>
+                            <label for="phonenumber">Phone Number*</label>
                             <input type="number" id="phonenumber" name="phonenumber">
                         </li>
                         <p>
-                            <input type="radio" id="work-phone" value="work" name="phone">
-                            <label for="work-phone">Work Phone</label>
-                            <input type="radio" id="home-phone" value="home" name="phone">
-                            <label for="home-phone">Home Phone</label>
-                            <input type="radio" id="mobile-phone" value="mobile" name="phone">
-                            <label for="mobile-phone">Mobile Phone</label>
+                        <label for="contact_type">How should we contact you?</label>
+                        <input type="radio" id="phone" value="phone" name="contact_type">
+                        <label for="phone">Phone</label>
+                        <input type="radio" id="emailAddress" value="emailAddress" name="contact_type">
+                        <label for="emailAddress">Email</label>
                         </p>
                     </fieldset>
                     <li>

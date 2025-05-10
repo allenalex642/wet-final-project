@@ -57,7 +57,7 @@ $(function () {
                 minlength: 10,
                 maxlength: 10
             },
-            phone: {
+            contact_type: {
                 required: true,
             },
             'colors[]': {
