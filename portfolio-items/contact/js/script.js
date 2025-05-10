@@ -19,6 +19,7 @@ fetch("./../../markdown-files/contact-form.md")
         document.getElementById("content").innerHTML = marked.parse(error.message);
     });
 
+//Function for form validation
 $(function () {
 
     $('#form').validate({
