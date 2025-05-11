@@ -1,5 +1,7 @@
+//Import markdown to html node
 import { marked } from "https://esm.sh/marked";
 
+//Create a function to load in markdown content several times
 function loadMarkdownContent(filePath, elementID) {
     fetch(filePath)
     .then( (response) => {
