@@ -24,6 +24,5 @@ function loadMarkdownContent(filePath, elementID) {
 loadMarkdownContent("./markdown-files/main-page/main-card-0.md", "card-content-0");
 loadMarkdownContent("./markdown-files/main-page/main-card-1.md", "card-content-1");
 loadMarkdownContent("./markdown-files/main-page/main-card-4.md", "card-content-4");
-loadMarkdownContent("./markdown-files/main-page/main-card-2.md", "card-content-2");
 loadMarkdownContent("./markdown-files/main-page/main-card-3.md", "card-content-3");
 loadMarkdownContent("./markdown-files/main-page/main-card-5.md", "card-content-5");
