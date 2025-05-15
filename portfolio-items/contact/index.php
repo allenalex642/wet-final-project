@@ -114,7 +114,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
             </ul>
         </nav>
         <h2>Contact Us</h2>
-                    <form novalidate="novalidate" id="form" method="post" action="/php/assignments/02-mail/index.php">
+                    <form novalidate="novalidate" id="form" method="post">
                 <ol>
                     <li>
                         <label for="firstname">First Name</label>
