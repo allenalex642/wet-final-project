@@ -20,7 +20,7 @@
                     <a href="../card-collection/index.html">Card Content Collection</a>
                 </li>
                 <li class="nav-item">
-                    <a href="index.html">Contact Form</a>
+                    <a href="index.php">Contact Form</a>
                 </li>
                 <li class="nav-item">
                     <a href="../dev-notes/index.html">Dev Thoughts</a>
