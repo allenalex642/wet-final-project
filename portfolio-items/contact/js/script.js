@@ -26,8 +26,7 @@ $(function () {
     $('#form').validate({
         errorPlacement: function(error, element) {
             error.appendTo(element.parent());
-            if (element.attr("name") == "colors[]"
-                || element.attr("name") == "phone") {
+            if (element.attr("name") == "phone") {
                 error.prependTo(element.parent());
             }
         },
