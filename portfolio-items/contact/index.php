@@ -9,7 +9,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
     $required =  ['firstname', 'lastname', 'email', 'phonenumber', 'contact_type', 'issue', 'description'];
 
     // create additional headers
-    $headers[] = 'From: PHP-Survey<24532763@nwtc.edu>';
+    $headers[] = 'From: Contact Form<24532763@nwtc.edu>';
     $headers[] = 'Content-Type: text/plain; charset=utf-8';
 
         // pattern to locate suspect phrases
