@@ -137,13 +137,15 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
                                 <input type="number" id="phonenumber" name="phonenumber">
                             </li>
                         </ol>
-                        <p>
+                        <div class="contact-question">
                             <label>How should we contact you?</label>
-                            <input type="radio" id="phone" value="phone" name="contact_type">
-                            <label for="phone">Phone</label>
-                            <input type="radio" id="emailAddress" value="emailAddress" name="contact_type">
-                            <label for="emailAddress">Email</label>
-                        </p>
+                            <div class="contact-specification">
+                                <input type="radio" id="phone" value="phone" name="contact_type">
+                                <label for="phone">Phone</label>
+                                <input type="radio" id="emailAddress" value="emailAddress" name="contact_type">
+                                <label for="emailAddress">Email</label>
+                            </div>
+                        </div>
                     </fieldset>
                 <ol>
                     <li>

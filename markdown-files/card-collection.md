@@ -1,5 +1,5 @@
 ## Card Content Collection
-Content
+Below are just a few of my various cards I've designed for other classes, where they vary in several aspects, such as width, image hover, content layout, etc. 
 
 ### Web Front End Design 1 | Article Cards
 
